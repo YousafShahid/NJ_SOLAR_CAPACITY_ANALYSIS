@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+
 # Installed Solar capacity and energy consumption comparison between counties of State of New Jersey<br/>
 ## Muhammad Yousaf Shahid, EJB School of planning and public policy, Rutgers University.
 ### Completed as final project for command line GIS.
