@@ -19,7 +19,7 @@ The analysis and associated maps are created by Muhammad Yousaf Shahid, as final
 
 ### STATIC MAPS
 
-<iframe src="SOLAR AND ENERGY COMPARISON.png" width = "1000" height = "1035"></iframe><br/>
+<iframe src="SOLAR AND ENERGY COMPARISON.png" width = "500" height = "500"></iframe><br/>
 
 <iframe src="COMMUNITY SOLAR CAPACITY.png" width = "1020" height = "1000"></iframe><br/>
 
